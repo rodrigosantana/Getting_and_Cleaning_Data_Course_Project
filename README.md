@@ -1,4 +1,4 @@
-### Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 This is a repository created to store files, codes and documentations of the Getting and Cleaning Data Course Project,
 maintained by Johns Hopkins University and Coursera.
