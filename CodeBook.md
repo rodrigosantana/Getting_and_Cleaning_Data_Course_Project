@@ -1,9 +1,9 @@
-### General Description
+# General Description
 
 The R script `run_analysis.R` is a part of grad in Getting and Cleaning Data Course
 of Johns Hopkins University and Coursera. 
 
-## About `run_analysis.R` script:
+### About `run_analysis.R` script:
 
 * At the first moment, this script makes a download of the data zipped file from the url.
 * Unzip the file and loads the data files necessary for the analysis.
@@ -17,7 +17,7 @@ object.
 * After all, the code creates a new dataset with all average measures for each subject and 
 each actitivity type.
 
-## About files and objects cited in R script:
+### About files and objects cited in R script:
 
 * act, act.train, act.test, subj.train, subj.test, feat.train, feat.test and features containing
 all data downloaded from the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
